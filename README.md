@@ -54,7 +54,7 @@ Clone the repository and run:
 git clone https://github.com/SauravDnj/Email-Sender-System.git
 cd Email-Sender-System
 pip install pandas
-python email_sender.py
+python EmailAutomation.py
 ```
 The GUI will launch.
 
